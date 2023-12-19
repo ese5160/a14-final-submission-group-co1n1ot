@@ -1,4 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/2yGso8Cl)
+# Pictures
+
+<img src="https://github.com/ese5160/a14-final-submission-group-co1n1ot/assets/148792076/8fe135d6-f083-4530-a764-15494abd74f3" width="18%"></img> <img src="https://github.com/ese5160/a14-final-submission-group-co1n1ot/assets/148792076/ae81090d-d764-4c65-a1b7-795b9e52543d" width="18%"></img> <img src="https://github.com/ese5160/a14-final-submission-group-co1n1ot/assets/148792076/a23f4f5a-869e-4525-9987-d8ec7caccea7" width="18%"></img> <img src="https://github.com/ese5160/a14-final-submission-group-co1n1ot/assets/148792076/e924025c-a6c5-443b-8f09-8dce25170e36" width="18%"></img> <img src="https://github.com/ese5160/a14-final-submission-group-co1n1ot/assets/148792076/423a7d79-e656-44c9-bd99-6fdd94e680de" width="18%"></img> <img src="https://github.com/ese5160/a14-final-submission-group-co1n1ot/assets/148792076/6eee205a-2b36-4377-8e0b-e1f90137d00c" width="18%"></img> <img src="https://github.com/ese5160/a14-final-submission-group-co1n1ot/assets/148792076/2d5ad9dc-5214-42f4-8871-79f8fb80b70a" width="18%"></img> <img src="https://github.com/ese5160/a14-final-submission-group-co1n1ot/assets/148792076/cb6c3313-38df-4215-a89b-583613a4f34f" width="18%"></img> <img src="https://github.com/ese5160/a14-final-submission-group-co1n1ot/assets/148792076/6157aeb0-c890-476c-af7d-531c57d58670" width="18%"></img> <img src="https://github.com/ese5160/a14-final-submission-group-co1n1ot/assets/148792076/57381f08-119a-4935-b475-3e374af47bb7" width="18%"></img> 
+
 
 # 1. Inspiration
 
