@@ -2,7 +2,7 @@
 # Team
     * Team Name: Co1n1oT
     * Course: ESE5160 2023
-    * Team Members: Qiming Zhang/ Xuyao Xia
+    * Team Members: Qiming Zhang/ Mark Xia
 # Video
 
 https://drive.google.com/file/d/1hO6zPIGfDyBZ-z6QKKJkaqXucsmvbcgw/view?usp=drive_link
