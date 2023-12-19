@@ -5,12 +5,17 @@
     * Team Members: Qiming Zhang/ Mark Xia
 # Video
 
+General vedio:
+
 https://drive.google.com/file/d/1hO6zPIGfDyBZ-z6QKKJkaqXucsmvbcgw/view?usp=drive_link
-## OTAFU: https://drive.google.com/file/d/1PaVpMbMSJU6eB2cHe8P0BNUaxAxGv5d5/view?usp=sharing
+
+OTAFU: 
+
+https://drive.google.com/file/d/1PaVpMbMSJU6eB2cHe8P0BNUaxAxGv5d5/view?usp=sharing
 
 # Pictures
 
-<img src="https://github.com/ese5160/a14-final-submission-group-co1n1ot/assets/148792076/8fe135d6-f083-4530-a764-15494abd74f3" width="18%"></img><img src="https://github.com/ese5160/a14-final-submission-group-co1n1ot/assets/148792076/ae81090d-d764-4c65-a1b7-795b9e52543d" width="18%"></img><img src="https://github.com/ese5160/a14-final-submission-group-co1n1ot/assets/148792076/a23f4f5a-869e-4525-9987-d8ec7caccea7" width="18%"></img><img src="https://github.com/ese5160/a14-final-submission-group-co1n1ot/assets/148792076/e924025c-a6c5-443b-8f09-8dce25170e36" width="18%"></img><img src="https://github.com/ese5160/a14-final-submission-group-co1n1ot/assets/148792076/423a7d79-e656-44c9-bd99-6fdd94e680de" width="18%"></img><img src="https://github.com/ese5160/a14-final-submission-group-co1n1ot/assets/148792076/6eee205a-2b36-4377-8e0b-e1f90137d00c" width="18%"></img><img src="https://github.com/ese5160/a14-final-submission-group-co1n1ot/assets/148792076/2d5ad9dc-5214-42f4-8871-79f8fb80b70a" width="18%"></img><img src="https://github.com/ese5160/a14-final-submission-group-co1n1ot/assets/148792076/cb6c3313-38df-4215-a89b-583613a4f34f" width="18%"></img><img src="https://github.com/ese5160/a14-final-submission-group-co1n1ot/assets/148792076/6157aeb0-c890-476c-af7d-531c57d58670" width="18%"></img><img src="https://github.com/ese5160/a14-final-submission-group-co1n1ot/assets/148792076/57381f08-119a-4935-b475-3e374af47bb7" width="18%"></img>
+<img src="https://github.com/ese5160/a14-final-submission-group-co1n1ot/assets/148792076/eb6e03e5-2b22-4f4e-8679-af0d7744f1f3" width="15%"></img><img src="https://github.com/ese5160/a14-final-submission-group-co1n1ot/assets/148792076/2ffad481-f484-4002-b52a-0939c2490383" width="15%"></img><img src="https://github.com/ese5160/a14-final-submission-group-co1n1ot/assets/148792076/f76fdb50-4fd9-4289-92e8-b139db0ff52e" width="15%"></img><img src="https://github.com/ese5160/a14-final-submission-group-co1n1ot/assets/148792076/7de7fe3a-6262-4500-b5ce-6d60428901c5" width="15%"></img><img src="https://github.com/ese5160/a14-final-submission-group-co1n1ot/assets/148792076/8778c7e2-2209-467d-be77-8e2ac7e7f716" width="15%"></img><img src="https://github.com/ese5160/a14-final-submission-group-co1n1ot/assets/148792076/bd863cc3-8b23-4b9a-985a-679d88abab75" width="15%"></img><img src="https://github.com/ese5160/a14-final-submission-group-co1n1ot/assets/148792076/b943f3f1-89b8-458b-86ac-d0046f851f42" width="15%"></img><img src="https://github.com/ese5160/a14-final-submission-group-co1n1ot/assets/148792076/11b4ba92-4ed2-45c3-8dda-36809309e67f" width="15%"></img><img src="https://github.com/ese5160/a14-final-submission-group-co1n1ot/assets/148792076/77d39a5b-fa9e-48c7-b05b-79104054d36c" width="15%"></img><img src="https://github.com/ese5160/a14-final-submission-group-co1n1ot/assets/148792076/14e9c2c4-85f8-4909-81ac-f1a58af914db" width="15%"></img><img src="https://github.com/ese5160/a14-final-submission-group-co1n1ot/assets/148792076/ccfc17e3-aacc-4f0f-8c86-795a6a102272" width="15%"></img>
 
 # Project Summary
 ## 1. Inspiration
