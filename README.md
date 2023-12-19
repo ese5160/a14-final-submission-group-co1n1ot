@@ -65,6 +65,10 @@ Enhanced User Interface and Experience: Developing a more intuitive and user-fri
 
 Integration with Financial Management Tools: Linking the piggy bank with personal finance management software or apps. This integration would allow users to view their savings in the piggy bank as part of their broader financial portfolio, aiding in comprehensive financial planning.
 
+# Note:
+
+There are two separate projects included in this repo; one is for the dev board which is in charge of handling the servo; and the other one is in charge of handling all the components connected to the PCBA: light sensors, LEDs, etc.
+
 
 ## 8. Link to our Node-RED demo URL
 
